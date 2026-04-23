@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Vipul Rastogi 👋
 
-<!--
-**vipulrastogi007/vipulrastogi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** | 💻 **Aspiring Full Stack & Mobile Developer** | 🚀 **Building real-world solutions**
 
-Here are some ideas to get you started:
+I'm passionate about learning core concepts and applying them to build practical applications. Currently focused on web and mobile development, with a growing interest in streamlining workflows for rural operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I'm working on
+
+- 🌐 **UPSCIS-web-app** – Building a university web application using TypeScript.
+- 📱 **Haxplore-BROZZZZ** – "Occamy": A system to migrate rural field operations from unstructured WhatsApp messages to a structured, mobile-first tracking tool.
+- 🎨 **Frontend-projects** – Exploring latest frontend technologies and design patterns.
+
+---
+
+## 🧠 What I've learned & practiced
+
+- **Core Java** – Solid foundation in OOP, collections, and basic algorithms.
+- **Objective-C** – Gained fundamental knowledge during my first semester.
+
+I believe in learning by doing — each repository represents a stepping stone in my development journey.
+
+---
+
+## 📫 Let's connect
+
+- LinkedIn: [vipul-rastogi-432641382](https://www.linkedin.com/in/vipul-rastogi-432641382) (feel free to reach out!)
+- GitHub: You're already here 😄
+
+---
+
+## 📊 GitHub stats
+
+![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipulrastogi007&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulrastogi007&layout=compact)
+
+---
+
+⭐ *Always open to collaborating on meaningful projects – especially those that make a difference in rural or under-served areas.*
