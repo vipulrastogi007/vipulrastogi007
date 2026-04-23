@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile.jpg" alt="Vipul Rastogi" width="180" style="border-radius: 50%;" />
+  <img src="./profile.jpeg" alt="Vipul Rastogi" width="180" style="border-radius: 50%;" />
   <h1>Vipul Rastogi</h1>
   <h3>AI & ML Engineer | Full Stack Developer</h3>
   <p>Faculty of Uttaranchal Institute of Technology (FUIT)</p>
