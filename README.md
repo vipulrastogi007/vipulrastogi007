@@ -65,8 +65,6 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [UPSCIS-web-app](https://github.com/vipulrastogi007/UPSCIS-web-app) | University web application | TypeScript |
-| [Haxplore-BROZZZZ](https://github.com/vipulrastogi007/Haxplore-BROZZZZ) | Rural field ops tracking (Occamy) | Mobile-first |
 | [CORE-JAVA](https://github.com/vipulrastogi007/CORE-JAVA) | Object-oriented concepts | Java |
 | [Objective-C](https://github.com/vipulrastogi007/Objective-C) | First semester fundamentals | Objective-C |
 | [Frontend-projects](https://github.com/vipulrastogi007/Frontend-projects) | Modern UI experiments | HTML/CSS/JS |
